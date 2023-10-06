@@ -1,6 +1,6 @@
 # Unpack-compressed-files
 
-This is the usage of the script.
+This is the usage of the script:
 
 unpack [-r] [-v] file [file...]
 
