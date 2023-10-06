@@ -1,9 +1,8 @@
 # Unpack-compressed-files
 
 This is the usage of the script.
-usage(){
-  echo "Usage: unpack [-r] [-v] file [file...]"
-}
+
+unpack [-r] [-v] file [file...]
 
 -The script offers a recursive option -r, and a Verbose option -v.
 
